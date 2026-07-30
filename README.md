@@ -3,6 +3,18 @@
 ## 📌 Project Overview
 This project analyzes coffee shop sales data to identify sales trends, top-selling products, and business performance using Excel and Power BI.
 
+## 📈 Project Workflow
+
+Raw Data (Excel)
+⬇️
+Data Cleaning (Excel)
+⬇️
+Data Modeling (Power BI)
+⬇️
+Dashboard Creation
+⬇️
+Business Insights
+
 ## 🎯 Objectives
 - Analyze sales performance
 - Identify top-selling products
