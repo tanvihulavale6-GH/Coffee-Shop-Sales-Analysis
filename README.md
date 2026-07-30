@@ -24,7 +24,7 @@ The dataset contains coffee shop transaction data including:
 - Store Location
 
 ## 📊 Dashboard Preview
-(Dashboard image will be added here.)
+![Dashboard](Dashboard.png)
 
 ## 💡 Key Insights
 - Top-selling products
